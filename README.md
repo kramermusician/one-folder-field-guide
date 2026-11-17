@@ -18,6 +18,7 @@ The system it describes is called KRAMOS. Yours will become something else, with
 10. [docs/10-safety-and-privacy.md](docs/10-safety-and-privacy.md) - what never leaves your machine
 11. [docs/11-things-to-try.md](docs/11-things-to-try.md) - 30 experiments, easiest first
 12. [docs/12-glossary.md](docs/12-glossary.md)
+13. [docs/13-model-routing.md](docs/13-model-routing.md) - token efficiency: a strong lead, cheap workers (Javier Lozada's idea)
 
 Copy-ready templates live in [examples/](examples/). Every person and teammate in them is invented.
 

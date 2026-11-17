@@ -11,3 +11,5 @@
 - Specialist or teammate: a role file in `team/`.
 - Orchestrator: the teammate that routes requests to the others.
 - Coaching loop: correction becomes a written rule.
+- Lead and workers: the strong model plans and reviews, cheaper models with fresh context do the volume (see 13).
+- Token: the unit AI usage is counted in.
