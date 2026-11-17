@@ -20,6 +20,7 @@ The system it describes is called KRAMOS. Yours will become something else, with
 12. [docs/12-glossary.md](docs/12-glossary.md)
 13. [docs/13-model-routing.md](docs/13-model-routing.md) - token efficiency: a strong lead, cheap workers (Javier Lozada's idea)
 14. [docs/14-ask-kramos.md](docs/14-ask-kramos.md) - your system asks ours questions, as GitHub issues
+15. [docs/15-exchange.md](docs/15-exchange.md) - the two-way exchange: your system shares, ours learns
 
 Copy-ready templates live in [examples/](examples/). Every person and teammate in them is invented.
 
